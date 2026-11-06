@@ -1,0 +1,13 @@
+# Compilación Java / Maven
+*.class
+target/
+bin/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Artefactos comprimidos
+*.zip
